@@ -1,0 +1,4 @@
+../Core/Src/motors.c:19:6:motor_enable	16	static
+../Core/Src/motors.c:25:6:motor_disable	16	static
+../Core/Src/motors.c:30:6:motor_move	24	static
+../Core/Src/motors.c:48:6:motor_stop	16	static
